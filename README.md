@@ -21,14 +21,12 @@ In my spare time, I work on my own side projects such as Test Track ([Test Track
 
 
 ## Rapidfire  
-<table><tr><td valign="top" width="50%">
 
 - 🔭 I’m currently working on [Test Track](https://test-track.io)  
   
 
 - 🌱 I want to learn how to do marketing properly (typical developer who doesn't like marketing) and also want to learn more about docker and automatic deployment  
 
-</td></tr></table>  
 
 <br/>  
 
