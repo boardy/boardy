@@ -28,11 +28,6 @@ In my spare time, I work on my own side projects such as Test Track ([Test Track
 
 - 🌱 I want to learn how to do marketing properly (typical developer who doesn't like marketing) and also want to learn more about docker and automatic deployment  
 
-
-</td><td valign="top" width="50%">
-
-
-
 </td></tr></table>  
 
 <br/>  
