@@ -12,9 +12,9 @@
 
 
 ### Glad to see you here!  
-I'm a full stack developer, working full time in the telecoms industry as a solution architect/developer. 
+I'm a full stack developer, working full time in the telecoms industry as a solution architect/developer/support manager. 
 
-In my spare time, I work on my own side projects such as Test Track ([Test Track](https://test-track.io)). I always try to keep up to date with the latest technologies (easier said than done) but currently most of my projects use a combination of React, Laravel and NextJS.   
+In my spare time, I work on my own side projects such as Test Track ([Test Track](https://test-track.com)) and Docuarmoury ([Docuarmoury (https://docuarmoury.com)]). I always try to keep up to date with the latest technologies (easier said than done) but currently most of my projects use a combination of React, Laravel and NextJS.   
   
 
 <br/>  
